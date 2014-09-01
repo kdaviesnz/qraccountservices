@@ -1,0 +1,11 @@
+{
+  "name": "qraccountservices",
+  "version": "0.0.1",
+  "private":true,
+  "readme": "ERROR: No README data found!",
+  "_id": "qraccountservices@0.0.1",
+  "dist": {
+    "shasum": "7f1ac137b4d91f9b233735781ac51c74cf0f6452"
+  },
+  "_from": "qraccountservices"
+}
